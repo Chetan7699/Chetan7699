@@ -13,8 +13,8 @@
 
 - 
 ## Education
-
-### [G.H.Raisomi College of Arts,Commerce And Science,Wagholi,Pune] — Bachelor of Computer Science  
+##Savitribai Phule Pune University.
+### [G.H.Raisoni College of Arts,Commerce And Science,Wagholi,Pune] — Bachelor of Computer Science  
 **September 2021 - July 2024**  
 -  CGPA: 9.02  
 - Relevant coursework: Data Structures, Object-Oriented Programming, Machine Learning, AI  
