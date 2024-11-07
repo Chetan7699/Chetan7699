@@ -8,11 +8,22 @@
 - Building new Personal/Professional Projects.
 
 🌱 Currently learning:
-- [Full stack java]
-- [spring,spring boot]
+- [Full stack java development]
+- [Kotlin]
+
+- 
+## Education
+
+### [G.H.Raisomi College of Arts,Commerce And Science,Wagholi,Pune] — Bachelor of Computer Science  
+**September 2021 - July 2024**  
+-  CGPA: 9.02  
+- Relevant coursework: Data Structures, Object-Oriented Programming, Machine Learning, AI  
+
+
+
 
 💻 Programming Languages:
-- C, C++, Python, JavaScript,Java,php
+- C, C++, Python, JavaScript,Java,php,Kotlin.
 
 📫 How to reach me:
 - Email:deshmukhchetan536@gmail.com
