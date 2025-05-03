@@ -9,9 +9,7 @@
 
 🌱 Currently learning:
 - Spring,Spring boot with Microservices
-- 
 
-- 
 ## Education
 ##Savitribai Phule Pune University.
 ### [G.H.Raisoni College of Arts,Commerce And Science,Wagholi,Pune] — Bachelor of Computer Science  
