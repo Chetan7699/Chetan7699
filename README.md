@@ -8,8 +8,8 @@
 - Building new Personal/Professional Projects.
 
 🌱 Currently learning:
-- [Full stack java development]
-- [Kotlin]
+- Spring,Spring boot with Microservices
+- 
 
 - 
 ## Education
